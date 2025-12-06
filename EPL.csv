@@ -1,0 +1,143 @@
+"dummy","match_day","homeTeam","awayTeam","homeScore","awayScore"
+"1","day1","Liverpool","Bournemouth",4,2
+"2","day1","Aston Villa","Newcastle",0,0
+"3","day1","Brighton","Fulham",1,1
+"4","day1","Sunderland","West Ham",3,0
+"5","day1","Tottenham","Burnley",3,0
+"6","day1","Wolves","Man City",0,4
+"7","day1","Chelsea","Crystal Palace",0,0
+"8","day1","Nott'm Forest","Brentford",3,1
+"9","day1","Man United","Arsenal",0,1
+"10","day1","Leeds","Everton",1,0
+"11","day2","West Ham","Chelsea",1,5
+"12","day2","Man City","Tottenham",0,2
+"13","day2","Bournemouth","Wolves",1,0
+"14","day2","Brentford","Aston Villa",1,0
+"15","day2","Burnley","Sunderland",2,0
+"16","day2","Arsenal","Leeds",5,0
+"17","day2","Crystal Palace","Nott'm Forest",1,1
+"18","day2","Everton","Brighton",2,0
+"19","day2","Fulham","Man United",1,1
+"20","day2","Newcastle","Liverpool",2,3
+"21","day3","Chelsea","Fulham",2,0
+"22","day3","Man United","Burnley",3,2
+"23","day3","Sunderland","Brentford",2,1
+"24","day3","Tottenham","Bournemouth",0,1
+"25","day3","Wolves","Everton",2,3
+"26","day3","Leeds","Newcastle",0,0
+"27","day3","Brighton","Man City",2,1
+"28","day3","Nott'm Forest","West Ham",0,3
+"29","day3","Liverpool","Arsenal",1,0
+"30","day3","Aston Villa","Crystal Palace",0,3
+"31","day4","Arsenal","Nott'm Forest",3,0
+"32","day4","Bournemouth","Brighton",2,1
+"33","day4","Crystal Palace","Sunderland",0,0
+"34","day4","Everton","Aston Villa",0,0
+"35","day4","Fulham","Leeds",1,0
+"36","day4","Newcastle","Wolves",1,0
+"37","day4","West Ham","Tottenham",0,3
+"38","day4","Brentford","Chelsea",2,2
+"39","day4","Burnley","Liverpool",0,1
+"40","day4","Man City","Man United",3,0
+"41","day5","Liverpool","Everton",2,1
+"42","day5","Brighton","Tottenham",2,2
+"43","day5","Burnley","Nott'm Forest",1,1
+"44","day5","West Ham","Crystal Palace",1,2
+"45","day5","Wolves","Leeds",1,3
+"46","day5","Man United","Chelsea",2,1
+"47","day5","Fulham","Brentford",3,1
+"48","day5","Bournemouth","Newcastle",0,0
+"49","day5","Sunderland","Aston Villa",1,1
+"50","day5","Arsenal","Man City",1,1
+"51","day6","Brentford","Man United",3,1
+"52","day6","Chelsea","Brighton",1,3
+"53","day6","Crystal Palace","Liverpool",2,1
+"54","day6","Leeds","Bournemouth",2,2
+"55","day6","Man City","Burnley",5,1
+"56","day6","Nott'm Forest","Sunderland",0,1
+"57","day6","Tottenham","Wolves",1,1
+"58","day6","Aston Villa","Fulham",3,1
+"59","day6","Newcastle","Arsenal",1,2
+"60","day6","Everton","West Ham",1,1
+"61","day7","Bournemouth","Fulham",3,1
+"62","day7","Leeds","Tottenham",1,2
+"63","day7","Arsenal","West Ham",2,0
+"64","day7","Man United","Sunderland",2,0
+"65","day7","Chelsea","Liverpool",2,1
+"66","day7","Aston Villa","Burnley",2,1
+"67","day7","Everton","Crystal Palace",2,1
+"68","day7","Newcastle","Nott'm Forest",2,0
+"69","day7","Wolves","Brighton",1,1
+"70","day7","Brentford","Man City",0,1
+"71","day8","Nott'm Forest","Chelsea",0,3
+"72","day8","Brighton","Newcastle",2,1
+"73","day8","Burnley","Leeds",2,0
+"74","day8","Crystal Palace","Bournemouth",3,3
+"75","day8","Man City","Everton",2,0
+"76","day8","Sunderland","Wolves",2,0
+"77","day8","Fulham","Arsenal",0,1
+"78","day8","Tottenham","Aston Villa",1,2
+"79","day8","Liverpool","Man United",1,2
+"80","day8","West Ham","Brentford",0,2
+"81","day9","Leeds","West Ham",2,1
+"82","day9","Chelsea","Sunderland",1,2
+"83","day9","Newcastle","Fulham",2,1
+"84","day9","Man United","Brighton",4,2
+"85","day9","Brentford","Liverpool",3,2
+"86","day9","Arsenal","Crystal Palace",1,0
+"87","day9","Aston Villa","Man City",1,0
+"88","day9","Bournemouth","Nott'm Forest",2,0
+"89","day9","Wolves","Burnley",2,3
+"90","day9","Everton","Tottenham",0,3
+"91","day10","Brighton","Leeds",3,0
+"92","day10","Burnley","Arsenal",0,2
+"93","day10","Crystal Palace","Brentford",2,0
+"94","day10","Fulham","Wolves",3,0
+"95","day10","Nott'm Forest","Man United",2,2
+"96","day10","Tottenham","Chelsea",0,1
+"97","day10","Liverpool","Aston Villa",2,0
+"98","day10","West Ham","Newcastle",3,1
+"99","day10","Man City","Bournemouth",3,1
+"100","day10","Sunderland","Everton",1,1
+"101","day11","Tottenham","Man United",2,2
+"102","day11","Everton","Fulham",2,0
+"103","day11","West Ham","Burnley",3,2
+"104","day11","Sunderland","Arsenal",2,2
+"105","day11","Chelsea","Wolves",3,0
+"106","day11","Aston Villa","Bournemouth",4,0
+"107","day11","Brentford","Newcastle",3,1
+"108","day11","Crystal Palace","Brighton",0,0
+"109","day11","Nott'm Forest","Leeds",3,1
+"110","day11","Man City","Liverpool",3,0
+"111","day12","Burnley","Chelsea",0,2
+"112","day12","Bournemouth","West Ham",2,2
+"113","day12","Brighton","Brentford",2,1
+"114","day12","Fulham","Sunderland",1,0
+"115","day12","Liverpool","Nott'm Forest",0,3
+"116","day12","Wolves","Crystal Palace",0,2
+"117","day12","Newcastle","Man City",2,1
+"118","day12","Leeds","Aston Villa",1,2
+"119","day12","Arsenal","Tottenham",4,1
+"120","day12","Man United","Everton",0,1
+"121","day13","Brentford","Burnley",3,1
+"122","day13","Man City","Leeds",3,2
+"123","day13","Sunderland","Bournemouth",3,2
+"124","day13","Everton","Newcastle",1,4
+"124","day13","Tottenham","Fulham",1,2
+"125","day13","Crystal Palace","Man United",1,2
+"126","day13","Nott'm Forest","Brighton",0,2
+"127","day13","Aston Villa","Wolves",1,0
+"128","day13","West Ham","Liverpool",0,2
+"129","day13","Chelsea","Arsenal",1,1
+"130","day14","Bournemouth","Everton",0,1
+"131","day14","Fulham","Man City",4,5
+"132","day14","Newcastle","Tottenham",2,2
+"133","day14","Brighton","Aston Villa",3,4
+"134","day14","Arsenal","Brentford",2,0
+"135","day14","Burnley","Crystal Palace",0,1
+"136","day14","Wolves","Nott'm Forest",0,1
+"137","day14","Leeds","Chelsea",3,1
+"138","day14","Liverpool","Sunderland",1,1
+"139","day14","Man United","West Ham",1,1
+
+
