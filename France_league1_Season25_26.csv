@@ -1,0 +1,145 @@
+matchday,homeTeam,awayTeam,homeTeamScore,awayTeamScore
+day1,Rennes,Marseille,1,0
+day1,Lens,Lyon,0,1
+day1,Monaco,Le Havre,3,1
+day1,Nice,Toulouse,0,1
+day1,Brest,Lille,3,3
+day1,Angers,Paris FC,1,0
+day1,Auxerre,Lorient,1,0
+day1,Metz,Strasbourg,0,1
+day1,Nantes,Paris Saint-Germain,0,1
+day2,Paris Saint-Germain,Angers,1,0
+day2,Marseille,Paris FC,5,2
+day2,Nice,Auxerre,3,1
+day2,Lyon,Metz,3,0
+day2,Lorient,Rennes,4,0
+day2,Le Havre,Lens,1,2
+day2,Strasbourg,Nantes,1,0
+day2,Toulouse,Brest,2,0
+day2,Lille,Monaco,1,0
+day3,Lens,Brest,3,1
+day3,Lorient,Lille,1,7
+day3,Nantes,Auxerre,1,0
+day3,Toulouse,Paris Saint-Germain,3,6
+day3,Angers,Rennes,1,1
+day3,Le Havre,Nice,3,1
+day3,Monaco,Strasbourg,3,2
+day3,Paris FC,Metz,3,2
+day3,Lyon,Marseille,1,0
+day4,Marseille,Lorient,4,0
+day4,Nice,Nantes,1,0
+day4,Auxerre,Monaco,1,2
+day4,Lille,Toulouse,2,1
+day4,Strasbourg,Le Havre,1,0
+day4,Brest,Paris FC,1,2
+day4,Paris Saint-Germain,Lens,2,0
+day4,Metz,Angers,1,1
+day4,Rennes,Lyon,1,3
+day5,Lyon,Angers,1,0
+day5,Nantes,Rennes,2,2
+day5,Brest,Nice,4,1
+day5,Lens,Lille,3,0
+day5,Paris FC,Strasbourg,2,3
+day5,Monaco,Metz,5,2
+day5,Auxerre,Toulouse,1,0
+day5,Le Havre,Lorient,1,1
+day5,Marseille,Paris Saint-Germain,1,0
+day6,Strasbourg,Marseille,1,2
+day6,Lorient,Monaco,3,1
+day6,Toulouse,Nantes,2,2
+day6,Paris Saint-Germain,Auxerre,2,0
+day6,Nice,Paris FC,1,1
+day6,Lille,Lyon,0,1
+day6,Metz,Le Havre,0,0
+day6,Angers,Brest,0,2
+day6,Rennes,Lens,0,0
+day7,Paris FC,Lorient,2,0
+day7,Metz,Marseille,0,3
+day7,Brest,Nantes,0,0
+day7,Auxerre,Lens,1,2
+day7,Lyon,Toulouse,1,2
+day7,Monaco,Nice,2,2
+day7,Strasbourg,Angers,5,0
+day7,Le Havre,Rennes,2,2
+day7,Lille,Paris Saint-Germain,1,1
+day8,Paris Saint-Germain,Strasbourg,3,3
+day8,Nice,Lyon,3,2
+day8,Angers,Monaco,1,1
+day8,Marseille,Le Havre,6,2
+day8,Lens,Paris FC,2,1
+day8,Rennes,Auxerre,2,2
+day8,Toulouse,Metz,4,0
+day8,Lorient,Brest,3,3
+day8,Nantes,Lille,0,2
+day9,Paris FC,Nantes,1,2
+day9,Brest,Paris Saint-Germain,0,3
+day9,Monaco,Toulouse,1,0
+day9,Lens,Marseille,2,1
+day9,Lille,Metz,6,1
+day9,Angers,Lorient,2,0
+day9,Auxerre,Le Havre,0,1
+day9,Rennes,Nice,1,2
+day9,Lyon,Strasbourg,2,1
+day10,Le Havre,Brest,1,0
+day10,Lorient,Paris Saint-Germain,1,1
+day10,Nice,Lille,2,0
+day10,Metz,Lens,2,0
+day10,Nantes,Monaco,3,5
+day10,Marseille,Angers,2,2
+day10,Toulouse,Rennes,2,2
+day10,Paris FC,Lyon,3,3
+day10,Strasbourg,Auxerre,3,0
+day11,Paris Saint-Germain,Nice,1,0
+day11,Monaco,Paris FC,0,1
+day11,Auxerre,Marseille,0,1
+day11,Rennes,Strasbourg,4,1
+day11,Nantes,Metz,0,2
+day11,Lens,Lorient,3,0
+day11,Lille,Angers,1,0
+day11,Toulouse,Le Havre,0,0
+day11,Brest,Lyon,0,0
+day12,Paris FC,Rennes,0,1
+day12,Marseille,Brest,3,0
+day12,Le Havre,Nantes,1,1
+day12,Monaco,Lens,1,4
+day12,Lorient,Toulouse,1,1
+day12,Metz,Nice,2,1
+day12,Strasbourg,Lille,2,0
+day12,Angers,Auxerre,2,0
+day12,Lyon,Paris Saint-Germain,2,3
+day13,Nice,Marseille,1,5
+day13,Lens,Strasbourg,1,0
+day13,Rennes,Monaco,4,1
+day13,Paris Saint-Germain,Le Havre,3,0
+day13,Auxerre,Lyon,0,0
+day13,Nantes,Lorient,1,1
+day13,Brest,Metz,3,2
+day13,Toulouse,Angers,0,1
+day13,Lille,Paris FC,4,2
+day14,Metz,Rennes,0,1
+day14,Monaco,Paris Saint-Germain,1,0
+day14,Paris FC,Auxerre,1,1
+day14,Marseille,Toulouse,2,2
+day14,Strasbourg,Brest,1,2
+day14,Lorient,Nice,3,1
+day14,Angers,Lens,1,2
+day14,Le Havre,Lille,0,1
+day14,Lyon,Nantes,3,0
+day15,Brest,Monaco,1,0
+day15,Lille,Marseille,1,0
+day15,Nantes,Lens,1,2
+day15,Toulouse,Strasbourg,1,0
+day15,Paris Saint-Germain,Rennes,5,0
+day15,Nice,Angers,0,1
+day15,Auxerre,Metz,3,1
+day15,Le Havre,Paris FC,0,0
+day15,Lorient,Lyon,1,0
+day16,Angers,Nantes,4,1
+day16,Rennes,Brest,3,1
+day16,Metz,Paris Saint-Germain,2,3
+day16,Paris FC,Toulouse,0,3
+day16,Lyon,Le Havre,1,0
+day16,Lens,Nice,2,0
+day16,Auxerre,Lille,3,4
+day16,Strasbourg,Lorient,0,0
+day16,Marseille,Monaco,1,0

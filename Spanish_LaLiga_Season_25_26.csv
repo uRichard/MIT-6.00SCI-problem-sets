@@ -1,0 +1,160 @@
+matchday,homeTeam,awayTeam,homeTeamScore,awayTeamScore
+day1,Girona,Rayo Vallecano,1,3
+day1,Villarreal,Real Oviedo,2,0
+day1,Mallorca,Barcelona,0,3
+day1,Deportivo Alaves,Levante,2,1
+day1,Valencia,Real Sociedad,1,1
+day1,Celta Vigo,Getafe,0,2
+day1,Athletic Bilbao,Sevilla,3,2
+day1,Espanyol,Atletico Madrid,2,1
+day1,Elche,Real Betis,1,1
+day1,Real Madrid,Osasuna,1,0
+day2,Real Betis,Deportivo Alaves,1,0
+day2,Mallorca,Celta Vigo,1,1
+day2,Atletico Madrid,Elche,1,1
+day2,Levante,Barcelona,2,3
+day2,Osasuna,Valencia,1,0
+day2,Villarreal,Girona,5,0
+day2,Real Sociedad,Espanyol,2,2
+day2,Real Oviedo,Real Madrid,0,3
+day2,Athletic Bilbao,Rayo Vallecano,1,0
+day2,Sevilla,Getafe,1,2
+day3,Elche,Levante,2,0
+day3,Valencia,Getafe,3,0
+day3,Deportivo Alaves,Atletico Madrid,1,1
+day3,Real Oviedo,Real Sociedad,1,0
+day3,Girona,Sevilla,0,2
+day3,Real Madrid,Mallorca,2,1
+day3,Celta Vigo,Villarreal,1,1
+day3,Real Betis,Athletic Bilbao,1,2
+day3,Espanyol,Osasuna,1,0
+day3,Rayo Vallecano,Barcelona,1,1
+day4,Sevilla,Elche,2,2
+day4,Getafe,Real Oviedo,2,0
+day4,Real Sociedad,Real Madrid,1,2
+day4,Athletic Bilbao,Deportivo Alaves,0,1
+day4,Atletico Madrid,Villarreal,2,0
+day4,Celta Vigo,Girona,1,1
+day4,Levante,Real Betis,2,2
+day4,Osasuna,Rayo Vallecano,2,0
+day4,Barcelona,Valencia,6,0
+day4,Espanyol,Mallorca,3,2
+day5,Real Betis,Real Sociedad,3,1
+day5,Girona,Levante,0,4
+day5,Real Madrid,Espanyol,2,0
+day5,Deportivo Alaves,Sevilla,1,2
+day5,Villarreal,Osasuna,2,1
+day5,Valencia,Athletic Bilbao,2,0
+day5,Rayo Vallecano,Celta Vigo,1,1
+day5,Mallorca,Atletico Madrid,1,1
+day5,Elche,Real Oviedo,1,0
+day5,Barcelona,Getafe,3,0
+day6,Celta Vigo,Real Betis,1,1
+day6,Espanyol,Valencia,2,2
+day6,Athletic Bilbao,Girona,1,1
+day6,Sevilla,Villarreal,1,2
+day6,Levante,Real Madrid,1,4
+day6,Getafe,Deportivo Alaves,1,1
+day6,Atletico Madrid,Rayo Vallecano,3,2
+day6,Real Sociedad,Mallorca,1,0
+day6,Osasuna,Elche,1,1
+day6,Real Oviedo,Barcelona,1,3
+day7,Girona,Espanyol,0,0
+day7,Getafe,Levante,1,1
+day7,Atletico Madrid,Real Madrid,5,2
+day7,Mallorca,Deportivo Alaves,1,0
+day7,Villarreal,Athletic Bilbao,1,0
+day7,Rayo Vallecano,Sevilla,0,1
+day7,Elche,Celta Vigo,2,1
+day7,Barcelona,Real Sociedad,2,1
+day7,Real Betis,Osasuna,2,0
+day7,Valencia,Real Oviedo,1,2
+day8,Osasuna,Getafe,2,1
+day8,Real Oviedo,Levante,0,2
+day8,Girona,Valencia,2,1
+day8,Athletic Bilbao,Mallorca,2,1
+day8,Real Madrid,Villarreal,3,1
+day8,Deportivo Alaves,Elche,3,1
+day8,Sevilla,Barcelona,4,1
+day8,Real Sociedad,Rayo Vallecano,0,1
+day8,Espanyol,Real Betis,1,2
+day8,Celta Vigo,Atletico Madrid,1,1
+day9,Real Oviedo,Espanyol,0,2
+day9,Sevilla,Mallorca,1,3
+day9,Barcelona,Girona,2,1
+day9,Villarreal,Real Betis,2,2
+day9,Atletico Madrid,Osasuna,1,0
+day9,Elche,Athletic Bilbao,0,0
+day9,Celta Vigo,Real Sociedad,1,1
+day9,Levante,Rayo Vallecano,1,1
+day9,Getafe,Real Madrid,0,1
+day9,Deportivo Alaves,Valencia,0,0
+day10,Real Sociedad,Sevilla,2,1
+day10,Girona,Real Oviedo,3,3
+day10,Espanyol,Elche,1,0
+day10,Athletic Bilbao,Getafe,0,1
+day10,Valencia,Villarreal,0,2
+day10,Mallorca,Levante,1,1
+day10,Real Madrid,Barcelona,2,1
+day10,Osasuna,Celta Vigo,2,3
+day10,Rayo Vallecano,Deportivo Alaves,1,0
+day10,Real Betis,Atletico Madrid,0,2
+day11,Getafe,Girona,2,1
+day11,Villarreal,Rayo Vallecano,4,0
+day11,Atletico Madrid,Sevilla,3,0
+day11,Real Sociedad,Athletic Bilbao,3,2
+day11,Real Madrid,Valencia,4,0
+day11,Levante,Celta Vigo,1,2
+day11,Deportivo Alaves,Espanyol,2,1
+day11,Barcelona,Elche,3,1
+day11,Real Betis,Mallorca,3,0
+day11,Real Oviedo,Osasuna,0,0
+day12,Elche,Real Sociedad,1,1
+day12,Girona,Deportivo Alaves,1,0
+day12,Sevilla,Osasuna,1,0
+day12,Atletico Madrid,Levante,3,1
+day12,Espanyol,Villarreal,0,2
+day12,Athletic Bilbao,Real Oviedo,1,0
+day12,Rayo Vallecano,Real Madrid,0,0
+day12,Valencia,Real Betis,1,1
+day12,Mallorca,Getafe,1,0
+day12,Celta Vigo,Barcelona,2,4
+day13,Valencia,Levante,1,0
+day13,Deportivo Alaves,Celta Vigo,0,1
+day13,Barcelona,Athletic Bilbao,4,0
+day13,Osasuna,Real Sociedad,1,3
+day13,Villarreal,Mallorca,2,1
+day13,Real Oviedo,Rayo Vallecano,0,0
+day13,Real Betis,Girona,1,1
+day13,Getafe,Atletico Madrid,0,1
+day13,Elche,Real Madrid,2,2
+day13,Espanyol,Sevilla,2,1
+day14,Getafe,Elche,1,0
+day14,Mallorca,Osasuna,2,2
+day14,Barcelona,Deportivo Alaves,3,1
+day14,Levante,Athletic Bilbao,0,2
+day14,Atletico Madrid,Real Oviedo,2,0
+day14,Real Sociedad,Villarreal,2,3
+day14,Sevilla,Real Betis,0,2
+day14,Celta Vigo,Espanyol,0,1
+day14,Girona,Real Madrid,1,1
+day14,Rayo Vallecano,Valencia,1,1
+day15,Real Oviedo,Mallorca,0,0
+day15,Villarreal,Getafe,2,0
+day15,Deportivo Alaves,Real Sociedad,1,0
+day15,Real Betis,Barcelona,3,5
+day15,Athletic Bilbao,Atletico Madrid,1,0
+day15,Elche,Girona,3,0
+day15,Valencia,Sevilla,1,1
+day15,Espanyol,Rayo Vallecano,1,0
+day15,Real Madrid,Celta Vigo,0,2
+day15,Osasuna,Levante,2,0
+day16,Real Sociedad,Girona,1,2
+day16,Atletico Madrid,Valencia,2,1
+day16,Mallorca,Elche,3,1
+day16,Barcelona,Osasuna,2,0
+day16,Getafe,Espanyol,0,1
+day16,Sevilla,Real Oviedo,4,0
+day16,Celta Vigo,Athletic Bilbao,2,0
+day16,Deportivo Alaves,Real Madrid,1,2
+day16,Rayo Vallecano,Real Betis,0,0
