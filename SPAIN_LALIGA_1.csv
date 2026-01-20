@@ -1,0 +1,196 @@
+"","Date","HomeTeam","AwayTeam","FTHG","FTAG"
+"1","15/08/2025","Girona","Vallecano",1,3
+"2","15/08/2025","Villarreal","Oviedo",2,0
+"3","16/08/2025","Mallorca","Barcelona",0,3
+"4","16/08/2025","Alaves","Levante",2,1
+"5","16/08/2025","Valencia","Sociedad",1,1
+"6","17/08/2025","Celta","Getafe",0,2
+"7","17/08/2025","Ath Bilbao","Sevilla",3,2
+"8","17/08/2025","Espanol","Ath Madrid",2,1
+"9","18/08/2025","Elche","Betis",1,1
+"10","19/08/2025","Real Madrid","Osasuna",1,0
+"11","22/08/2025","Betis","Alaves",1,0
+"12","23/08/2025","Mallorca","Celta",1,1
+"13","23/08/2025","Ath Madrid","Elche",1,1
+"14","23/08/2025","Levante","Barcelona",2,3
+"15","24/08/2025","Osasuna","Valencia",1,0
+"16","24/08/2025","Sociedad","Espanol",2,2
+"17","24/08/2025","Villarreal","Girona",5,0
+"18","24/08/2025","Oviedo","Real Madrid",0,3
+"19","25/08/2025","Ath Bilbao","Vallecano",1,0
+"20","25/08/2025","Sevilla","Getafe",1,2
+"21","27/08/2025","Celta","Betis",1,1
+"22","29/08/2025","Elche","Levante",2,0
+"23","29/08/2025","Valencia","Getafe",3,0
+"24","30/08/2025","Alaves","Ath Madrid",1,1
+"25","30/08/2025","Oviedo","Sociedad",1,0
+"26","30/08/2025","Girona","Sevilla",0,2
+"27","30/08/2025","Real Madrid","Mallorca",2,1
+"28","31/08/2025","Celta","Villarreal",1,1
+"29","31/08/2025","Betis","Ath Bilbao",1,2
+"30","31/08/2025","Espanol","Osasuna",1,0
+"31","31/08/2025","Vallecano","Barcelona",1,1
+"32","12/09/2025","Sevilla","Elche",2,2
+"33","13/09/2025","Getafe","Oviedo",2,0
+"34","13/09/2025","Sociedad","Real Madrid",1,2
+"35","13/09/2025","Ath Bilbao","Alaves",0,1
+"36","13/09/2025","Ath Madrid","Villarreal",2,0
+"37","14/09/2025","Celta","Girona",1,1
+"38","14/09/2025","Levante","Betis",2,2
+"39","14/09/2025","Osasuna","Vallecano",2,0
+"40","14/09/2025","Barcelona","Valencia",6,0
+"41","15/09/2025","Espanol","Mallorca",3,2
+"42","19/09/2025","Betis","Sociedad",3,1
+"43","20/09/2025","Girona","Levante",0,4
+"44","20/09/2025","Real Madrid","Espanol",2,0
+"45","20/09/2025","Alaves","Sevilla",1,2
+"46","20/09/2025","Villarreal","Osasuna",2,1
+"47","20/09/2025","Valencia","Ath Bilbao",2,0
+"48","21/09/2025","Vallecano","Celta",1,1
+"49","21/09/2025","Mallorca","Ath Madrid",1,1
+"50","21/09/2025","Elche","Oviedo",1,0
+"51","21/09/2025","Barcelona","Getafe",3,0
+"52","23/09/2025","Ath Bilbao","Girona",1,1
+"53","23/09/2025","Espanol","Valencia",2,2
+"54","23/09/2025","Levante","Real Madrid",1,4
+"55","23/09/2025","Sevilla","Villarreal",1,2
+"56","24/09/2025","Getafe","Alaves",1,1
+"57","24/09/2025","Ath Madrid","Vallecano",3,2
+"58","24/09/2025","Sociedad","Mallorca",1,0
+"59","25/09/2025","Osasuna","Elche",1,1
+"60","25/09/2025","Oviedo","Barcelona",1,3
+"61","26/09/2025","Girona","Espanol",0,0
+"62","27/09/2025","Getafe","Levante",1,1
+"63","27/09/2025","Ath Madrid","Real Madrid",5,2
+"64","27/09/2025","Mallorca","Alaves",1,0
+"65","27/09/2025","Villarreal","Ath Bilbao",1,0
+"66","28/09/2025","Vallecano","Sevilla",0,1
+"67","28/09/2025","Elche","Celta",2,1
+"68","28/09/2025","Barcelona","Sociedad",2,1
+"69","28/09/2025","Betis","Osasuna",2,0
+"70","30/09/2025","Valencia","Oviedo",1,2
+"71","03/10/2025","Osasuna","Getafe",2,1
+"72","04/10/2025","Oviedo","Levante",0,2
+"73","04/10/2025","Girona","Valencia",2,1
+"74","04/10/2025","Ath Bilbao","Mallorca",2,1
+"75","04/10/2025","Real Madrid","Villarreal",3,1
+"76","05/10/2025","Alaves","Elche",3,1
+"77","05/10/2025","Sevilla","Barcelona",4,1
+"78","05/10/2025","Espanol","Betis",1,2
+"79","05/10/2025","Sociedad","Vallecano",0,1
+"80","05/10/2025","Celta","Ath Madrid",1,1
+"81","17/10/2025","Oviedo","Espanol",0,2
+"82","18/10/2025","Sevilla","Mallorca",1,3
+"83","18/10/2025","Barcelona","Girona",2,1
+"84","18/10/2025","Villarreal","Betis",2,2
+"85","18/10/2025","Ath Madrid","Osasuna",1,0
+"86","19/10/2025","Elche","Ath Bilbao",0,0
+"87","19/10/2025","Celta","Sociedad",1,1
+"88","19/10/2025","Levante","Vallecano",0,3
+"89","19/10/2025","Getafe","Real Madrid",0,1
+"90","20/10/2025","Alaves","Valencia",0,0
+"91","24/10/2025","Sociedad","Sevilla",2,1
+"92","25/10/2025","Girona","Oviedo",3,3
+"93","25/10/2025","Espanol","Elche",1,0
+"94","25/10/2025","Ath Bilbao","Getafe",0,1
+"95","25/10/2025","Valencia","Villarreal",0,2
+"96","26/10/2025","Mallorca","Levante",1,1
+"97","26/10/2025","Real Madrid","Barcelona",2,1
+"98","26/10/2025","Osasuna","Celta",2,3
+"99","26/10/2025","Vallecano","Alaves",1,0
+"100","27/10/2025","Betis","Ath Madrid",0,2
+"101","31/10/2025","Getafe","Girona",2,1
+"102","01/11/2025","Villarreal","Vallecano",4,0
+"103","01/11/2025","Ath Madrid","Sevilla",3,0
+"104","01/11/2025","Sociedad","Ath Bilbao",3,2
+"105","01/11/2025","Real Madrid","Valencia",4,0
+"106","02/11/2025","Levante","Celta",1,2
+"107","02/11/2025","Alaves","Espanol",2,1
+"108","02/11/2025","Barcelona","Elche",3,1
+"109","02/11/2025","Betis","Mallorca",3,0
+"110","03/11/2025","Oviedo","Osasuna",0,0
+"111","07/11/2025","Elche","Sociedad",1,1
+"112","08/11/2025","Girona","Alaves",1,0
+"113","08/11/2025","Sevilla","Osasuna",1,0
+"114","08/11/2025","Ath Madrid","Levante",3,1
+"115","08/11/2025","Espanol","Villarreal",0,2
+"116","09/11/2025","Ath Bilbao","Oviedo",1,0
+"117","09/11/2025","Vallecano","Real Madrid",0,0
+"118","09/11/2025","Mallorca","Getafe",1,0
+"119","09/11/2025","Valencia","Betis",1,1
+"120","09/11/2025","Celta","Barcelona",2,4
+"121","21/11/2025","Valencia","Levante",1,0
+"122","22/11/2025","Alaves","Celta",0,1
+"123","22/11/2025","Barcelona","Ath Bilbao",4,0
+"124","22/11/2025","Osasuna","Sociedad",1,3
+"125","22/11/2025","Villarreal","Mallorca",2,1
+"126","23/11/2025","Oviedo","Vallecano",0,0
+"127","23/11/2025","Betis","Girona",1,1
+"128","23/11/2025","Getafe","Ath Madrid",0,1
+"129","23/11/2025","Elche","Real Madrid",2,2
+"130","24/11/2025","Espanol","Sevilla",2,1
+"131","28/11/2025","Getafe","Elche",1,0
+"132","29/11/2025","Mallorca","Osasuna",2,2
+"133","29/11/2025","Barcelona","Alaves",3,1
+"134","29/11/2025","Levante","Ath Bilbao",0,2
+"135","29/11/2025","Ath Madrid","Oviedo",2,0
+"136","30/11/2025","Sociedad","Villarreal",2,3
+"137","30/11/2025","Sevilla","Betis",0,2
+"138","30/11/2025","Celta","Espanol",0,1
+"139","30/11/2025","Girona","Real Madrid",1,1
+"140","01/12/2025","Vallecano","Valencia",1,1
+"141","02/12/2025","Barcelona","Ath Madrid",3,1
+"142","03/12/2025","Ath Bilbao","Real Madrid",0,3
+"143","05/12/2025","Oviedo","Mallorca",0,0
+"144","06/12/2025","Villarreal","Getafe",2,0
+"145","06/12/2025","Alaves","Sociedad",1,0
+"146","06/12/2025","Betis","Barcelona",3,5
+"147","06/12/2025","Ath Bilbao","Ath Madrid",1,0
+"148","07/12/2025","Elche","Girona",3,0
+"149","07/12/2025","Valencia","Sevilla",1,1
+"150","07/12/2025","Espanol","Vallecano",1,0
+"151","07/12/2025","Real Madrid","Celta",0,2
+"152","08/12/2025","Osasuna","Levante",2,0
+"153","12/12/2025","Sociedad","Girona",1,2
+"154","13/12/2025","Ath Madrid","Valencia",2,1
+"155","13/12/2025","Mallorca","Elche",3,1
+"156","13/12/2025","Barcelona","Osasuna",2,0
+"157","13/12/2025","Getafe","Espanol",0,1
+"158","14/12/2025","Sevilla","Oviedo",4,0
+"159","14/12/2025","Celta","Ath Bilbao",2,0
+"160","14/12/2025","Alaves","Real Madrid",1,2
+"161","15/12/2025","Vallecano","Betis",0,0
+"162","19/12/2025","Valencia","Mallorca",1,1
+"163","20/12/2025","Oviedo","Celta",0,0
+"164","20/12/2025","Levante","Sociedad",1,1
+"165","20/12/2025","Osasuna","Alaves",3,0
+"166","20/12/2025","Real Madrid","Sevilla",2,0
+"167","21/12/2025","Girona","Ath Madrid",0,3
+"168","21/12/2025","Villarreal","Barcelona",0,2
+"169","21/12/2025","Elche","Vallecano",4,0
+"170","21/12/2025","Betis","Getafe",4,0
+"171","22/12/2025","Ath Bilbao","Espanol",1,2
+"172","02/01/2026","Vallecano","Getafe",1,1
+"173","03/01/2026","Celta","Valencia",4,1
+"174","03/01/2026","Osasuna","Ath Bilbao",1,1
+"175","03/01/2026","Elche","Villarreal",1,3
+"176","03/01/2026","Espanol","Barcelona",0,2
+"177","04/01/2026","Sevilla","Levante",0,3
+"178","04/01/2026","Real Madrid","Betis",5,1
+"179","04/01/2026","Alaves","Oviedo",1,1
+"180","04/01/2026","Mallorca","Girona",1,2
+"181","04/01/2026","Sociedad","Ath Madrid",1,1
+"182","09/01/2026","Getafe","Sociedad",1,2
+"183","10/01/2026","Oviedo","Betis",1,1
+"184","10/01/2026","Villarreal","Alaves",3,1
+"185","10/01/2026","Girona","Osasuna",1,0
+"186","10/01/2026","Valencia","Elche",1,1
+"187","11/01/2026","Vallecano","Mallorca",2,1
+"188","11/01/2026","Levante","Espanol",1,1
+"189","12/01/2026","Sevilla","Celta",0,1
+"190","16/01/2026","Espanol","Girona",0,2
+"191","17/01/2026","Real Madrid","Levante",2,0
+"192","17/01/2026","Mallorca","Ath Bilbao",3,2
+"193","17/01/2026","Osasuna","Oviedo",3,2
+"194","17/01/2026","Betis","Villarreal",2,0
+"195","18/01/2026","Getafe","Valencia",0,1
